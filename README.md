@@ -1,4 +1,4 @@
-# Car OBD
+# OBD-II Vehicle Scanner 
 
 OBD-II diagnostic app (Windows + Linux, Python), with a PySide6 desktop
 GUI - window titled **Diagnostics** - on top of a UI-agnostic backend
